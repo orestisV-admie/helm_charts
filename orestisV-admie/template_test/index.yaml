@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   app:
   - apiVersion: v2
+    appVersion: 0.1.0-dev.0.main.e1d17953
+    created: "2025-02-11T12:30:05.454410729Z"
+    description: Web service template in Python for reuse.
+    digest: e0b8ee38b03764f1a80c5a72b956a88cf8b2ca4785b7e02014327c8a472cb781
+    name: app
+    type: application
+    urls:
+    - https://orestisV-admie.github.io/helm_charts/orestisV-admie/template_test/app-0.1.0-dev.0.main.e1d17953.tgz
+    version: 0.1.0-dev.0.main.e1d17953
+  - apiVersion: v2
     appVersion: 0.1.0-dev.0.main.d9b7a4f9
     created: "2025-02-11T11:35:14.122897869Z"
     description: Web service template in Python for reuse.
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/template_test/app-0.1.0-dev.0.main.1f0cb5b6.tgz
     version: 0.1.0-dev.0.main.1f0cb5b6
-generated: "2025-02-11T12:29:31.840640331Z"
+generated: "2025-02-11T12:30:05.453878532Z"
