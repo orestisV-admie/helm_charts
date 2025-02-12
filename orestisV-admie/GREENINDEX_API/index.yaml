@@ -12,6 +12,16 @@ entries:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.d8f9c199.tgz
     version: 0.1.0-dev.0.main.d8f9c199
   - apiVersion: v2
+    appVersion: 0.1.0-dev.0.main.d49496b9
+    created: "2025-02-12T12:50:56.312170853Z"
+    description: Web service template in Python for reuse.
+    digest: 52874b653936474365ef20bcdb7534ad5566ac442ff7df54b6aee3fffca93a1f
+    name: app
+    type: application
+    urls:
+    - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.d49496b9.tgz
+    version: 0.1.0-dev.0.main.d49496b9
+  - apiVersion: v2
     appVersion: 0.1.0-dev.0.main.17c6d604
     created: "2025-02-12T11:57:21.481640477Z"
     description: Web service template in Python for reuse.
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.17c6d604.tgz
     version: 0.1.0-dev.0.main.17c6d604
-generated: "2025-02-12T11:57:21.481133459Z"
+generated: "2025-02-12T12:50:56.311278048Z"
