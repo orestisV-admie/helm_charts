@@ -51,4 +51,14 @@ entries:
     urls:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.17c6d604.tgz
     version: 0.1.0-dev.0.main.17c6d604
-generated: "2025-02-12T13:30:53.554113889Z"
+  - apiVersion: v2
+    appVersion: 0.1.0-dev.0.main.05b00cc8
+    created: "2025-02-13T08:17:03.385791138Z"
+    description: Green Index API for GLACIATION.
+    digest: 1e53ca2f03459af81238ebb7b1ca295f48b3bdba7a036fcfa05a3516da8fb36f
+    name: app
+    type: application
+    urls:
+    - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.05b00cc8.tgz
+    version: 0.1.0-dev.0.main.05b00cc8
+generated: "2025-02-13T08:17:03.385374224Z"
