@@ -62,6 +62,16 @@ entries:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.4a9d022f.tgz
     version: 0.1.0-dev.0.main.4a9d022f
   - apiVersion: v2
+    appVersion: 0.1.0-dev.0.main.39620a06
+    created: "2025-02-18T07:54:42.039874617Z"
+    description: Green Index API for GLACIATION.
+    digest: d63e87c48b7303df4d67c50404088ff47ff65adb7ccd033f5b0eba4b7d0b3cd7
+    name: app
+    type: application
+    urls:
+    - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.39620a06.tgz
+    version: 0.1.0-dev.0.main.39620a06
+  - apiVersion: v2
     appVersion: 0.1.0-dev.0.main.17c6d604
     created: "2025-02-12T11:57:21.481640477Z"
     description: Web service template in Python for reuse.
@@ -81,4 +91,4 @@ entries:
     urls:
     - https://orestisV-admie.github.io/helm_charts/orestisV-admie/GREENINDEX_API/app-0.1.0-dev.0.main.05b00cc8.tgz
     version: 0.1.0-dev.0.main.05b00cc8
-generated: "2025-02-13T08:52:00.555137945Z"
+generated: "2025-02-18T07:54:42.039453622Z"
